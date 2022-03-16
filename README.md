@@ -1,6 +1,5 @@
 ### ⛰️ 등산중...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonseok&langs_count=8&layout=compact&theme=white)](https://github.com/jangwonseok17/jangwonseok17)
 
 ## ing
 ### SSAFY 7th (220105 ~ )
