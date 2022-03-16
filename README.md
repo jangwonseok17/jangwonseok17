@@ -1,9 +1,6 @@
 ### ⛰️ 등산중...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=white)](https://github.com/jangwonseok17/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=white)](https://github.com/jangwonseok17/?tab=repositories&q=&type=&language=java&sort=)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jangwonseok17/) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jangwonseok17/)-->
 
 ## ing
 ### SSAFY 7th (220105 ~ )
