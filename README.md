@@ -1,8 +1,8 @@
 ### ⛰️ 등산중...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonseok17)
+(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangwonseok17@gmail.com)] 
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonseok17@gmail.com)
 
-출처: https://dalseobi.tistory.com/27 [달에 앉아있는 서비]
 
 ## ing
 ### SSAFY 7th (220105 ~ )
