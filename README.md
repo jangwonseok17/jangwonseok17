@@ -1,5 +1,6 @@
 ### ⛰️ 등산중...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonseok17)](http://github.com/anuraghazra/github-readme-stats)
 
 ## ing
 ### SSAFY 7th (220105 ~ )
