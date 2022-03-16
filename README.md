@@ -1,7 +1,7 @@
 ### ⛰️ 등산중...
 
-(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangwonseok17@gmail.com)] 
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonseok17@gmail.com)
+(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangwonseok17)] 
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangwonseok17)
 
 
 ## ing
