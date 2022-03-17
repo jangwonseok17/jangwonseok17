@@ -9,7 +9,7 @@
 
 
 ## 🏃‍♂️ing
-### 220105 ~ | SamSung SW Academy For Youth 7th 
+### 220105 ~ | Samsung SW Academy For Youth 7th 
 
 ## ✔️ed
 ### 210419 ~ 210708 | POSCO 청년 AI BigData 아카데미 14th
