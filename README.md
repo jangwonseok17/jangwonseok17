@@ -9,9 +9,9 @@
 
 
 ## 🏃‍♂️ing
-### 220105 ~ | SSAFY 7th 
+### 220105 ~ | SamSung SW Academy For Youth 7th 
 
 ## ✔️ed
-### 210419 ~ 210708 | POSCO 청년 AI BigData 아카데미 
+### 210419 ~ 210708 | POSCO 청년 AI BigData 아카데미 14th
 ### 200701 ~ 201031 | 빅데이터를 활용한 데이터 마케팅 전문가 양성과정 
 
